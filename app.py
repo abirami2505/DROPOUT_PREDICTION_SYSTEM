@@ -12,7 +12,7 @@ app = Flask(__name__)
 db = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="abiK@2505",     # put your mysql password here
+    password="",     # put your mysql password here
     database="dropout_system"
 )
 
