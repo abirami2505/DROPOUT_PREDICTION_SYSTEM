@@ -117,7 +117,7 @@ The application will be available at `http://localhost:5000`
 
 ### Algorithm
 - **Type**: Random Forest Classifier
-- **Features**: 3 student attributes
+- **Features**: 4 student attributes
 - **Output**: Dropout Risk Level (High/Medium/Low)
 
 ### Input Features
